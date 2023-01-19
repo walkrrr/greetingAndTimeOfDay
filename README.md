@@ -1,2 +1,1 @@
-# greetingAndTimeOfDay
-Created with CodeSandbox
+I used JavaScript to create conditional statements that will output a greeting based on the time of day, and to retrieve the current hour of time (military time). I also  changed a variable’s value without redeclaring the var keyword.
